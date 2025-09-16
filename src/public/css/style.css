@@ -1,0 +1,13 @@
+.img-logo-1 {
+    text-align: center;
+    height: 270px;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+div {
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+}
